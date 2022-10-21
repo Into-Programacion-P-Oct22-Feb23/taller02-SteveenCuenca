@@ -3,23 +3,23 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package proyecto01;
+package javaapplication2;
 
 /**
  *
  * @author UTPL
  */
-public class Proyecto01 {
+public class Proyecto02 {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
-        System.out.println("Ejemplo básico de Java");
-        System.out.println("Manejado desde GitHub");
+        // TODO code application logic here}
+        System.out.println("Ejemplo dos básico de Java");
         System.out.println("Versionado a través de Git");
-        System.out.println("Creado por SteveenCuenca");
+        System.out.println("Manejado desde GitHub");
+        System.out.println("Además se usar GitHubClassroom");
     }
     
 }
